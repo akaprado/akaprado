@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @akaprado
 - 👀 I’m interested in learn new stuffs
-- 🌱 I’m currently learning ... java boring script and hrml
+- 🌱 I’m currently learning ... java boring script and html
